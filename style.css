@@ -1,3 +1,11 @@
 img {
 width: 300px;
 }
+
+header {
+    background-color: aquamarine;/*cor de fundo */
+    COLOR:aqua; /*cor da letra */
+    text-align: center; /*alinhamento do texto*/
+    max-width: 800px; /*largura máxima*/
+    margin: 0 auto; /* espaço entre a borda e o cnteúdo */
+    padding: 16px;  /* espaço entre o conteúdo*/
