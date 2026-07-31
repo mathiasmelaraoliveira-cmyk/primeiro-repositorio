@@ -9,3 +9,21 @@ header {
     max-width: 800px; /*largura máxima*/
     margin: 0 auto; /* espaço entre a borda e o cnteúdo */
     padding: 16px;  /* espaço entre o conteúdo*/
+}
+
+main{
+    background-color: black#FFFFFF ;
+    color:aqua#183C63 ;
+     max-width: 800px;
+margin: 0 auto;
+padding: 16px; 
+}
+
+              .artigo-autor{
+                font-weight: bold;  /*espesssura da fonte-negrito*/
+        }
+
+        article {
+            display: flex;/*container flexivel*/
+            }
+            
