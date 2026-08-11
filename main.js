@@ -12,4 +12,6 @@ botoes.forEach(function) (botao){
         }else{
             texto.textContent--;
             curtiu=false;
-            
+        }    
+    }
+})        
