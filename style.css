@@ -12,12 +12,17 @@ header {
 }
 
 main{
-    background-color: #FFFFFF ;
+footer {
+    background-color: hsl(185, 98%, 50%) ;
     color:#183C63 ;
      max-width: 800px;
-margin: 0 auto;
-padding: 16px; 
+    margin: 0 auto;
+    padding: 16px; 
 }
+div {
+    margin: 0 auto;
+    padding: 20px;
+}    
 
               .artigo-autor{
                 font-weight: bold;  /*espesssura da fonte-negrito*/
@@ -25,5 +30,5 @@ padding: 16px;
 
         article {
             display: flex;/*container flexivel*/
-            }
+        }
             
